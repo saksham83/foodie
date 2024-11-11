@@ -1,0 +1,201 @@
+body{
+    height: 2000px;
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+    
+}
+.a1{
+    margin-left: 70px;
+    font: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+.a2{
+    font: bolder;
+    margin-left: 20px;
+   
+font-family: 'Times New Roman', Times, serif;
+}
+.navbar-brand{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.a3{
+  border-radius: 10px;
+}
+.carousel{
+    position: relative;
+    top: 50px;
+    height: 500px ;
+    display: block;
+    width: 100%;
+}
+.carousel-inner{
+    height: 600px;
+}
+.b1{
+    height: 330px;
+}
+.b2{
+    height: 270px;
+  
+}
+.b3{
+    height: 390px
+}
+.b11{
+    color: rgb(0, 0, 0);
+    text-shadow: 4px px 10px rgb(255, 255, 255);
+
+}
+.b22{
+    color: black;
+    text-shadow: 2px 2px 10px rgb(255, 255, 255);
+}
+.row{
+    width: 100%;
+    
+}
+
+.w1{
+    position: fixed;
+    display: flex;
+    top: 150px;
+    z-index: -1;
+    font-size: 120px;
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+  rotate: 340deg;
+  text-align: center;
+  text-shadow: 6px 6px 10px rgb(75, 75, 75);
+
+  
+
+}
+
+.img1{
+    position: fixed;
+    top: 80px;
+    height: 400px;
+    z-index: -1;
+   left: 800px;
+    width: 400px;
+    border-radius: 100%;
+}
+
+.container0{
+    display: block;
+    width: 100%;
+    height: 800px;
+    
+    
+
+}
+.container1{
+    
+   
+    background-color: rgb(255, 240, 36);
+    
+}
+.cont{
+   
+    background-color: white;
+}
+.w1:hover{
+    color: rgb(126, 71, 255);
+}
+
+.w2{
+  margin-top: 220px;
+  
+}
+.w22{
+    
+  
+    height: 400px;
+    width: 660px;
+  
+
+}
+.d2{
+    width: 400px;
+    height: 400px;
+    
+}
+.a1{
+    border-radius: 50px;
+}
+.card{
+    margin-bottom: 60px;
+}
+.public{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ff{
+    background-color: rgb(146, 56, 56);
+    width: 100%;
+    height: 490px;
+}
+
+.container5{
+    position: relative;
+   background-color: white;
+   width: 100%;
+   height: 500px;
+  }
+.s2{
+  position: absolute; 
+
+  opacity: 70%;
+  background-size: 100%;
+  width: 100%;  
+ 
+ 
+ }
+.text{
+ position: absolute;
+ left: 300px;
+ top: 120px;
+ font-size: 80px;
+ font-family: "Playwrite CL", cursive;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  text-shadow: 6px 6px 10px rgb(71, 71, 71);
+
+  font-style: normal;
+  rotate: 350deg;
+}
+.text1{
+    position: absolute;
+    left: 500px;
+    font-size: 80px;
+    top: 170px;
+    color: rgb(255, 255, 18);
+    text-shadow: 6px 6px 10px rgb(255, 255, 18);
+    font-family: "Playwrite CL", cursive;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+  rotate: 350deg;
+   }
+   .sw{
+    background-color: rgb(255, 237, 76);
+    width: 100%;
+    height: 300px;
+   }
+   .sww{
+    background-color: rgb(255, 237, 76);
+     width: 100%;
+     text-align: center;
+    }
+   
+
+
+
